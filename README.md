@@ -14,3 +14,7 @@ I am a student from the BSD branch of Information Technology Development Univers
 <img src="https://github-readme-stats.vercel.app/api?username=vikry234"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=vikry234)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vikry234"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=vikry234)
