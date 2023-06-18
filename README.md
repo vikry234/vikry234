@@ -12,6 +12,8 @@ I am a student from the BSD branch of Information Technology Development Univers
 
   
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikry234&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vikry234&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
+
 
 
 
