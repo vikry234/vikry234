@@ -11,6 +11,6 @@ I am a student from the BSD branch of Information Technology Development Univers
 - ⚡ Fun fact: i'am a lazy
 
   
-<img src="https://github-readme-stats.vercel.app/api?username=vikry234" color="black">
+<img height="180em" src="https://camo.githubusercontent.com/82ecda1……655f616…" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikry234&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%;">
 
 
