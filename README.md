@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vikry</h1>
 <h3 align="center">I am a student from the BSD branch of Information Technology Development University (BSI), majoring in informatics technology, undergraduate level</h3>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1U0UWFGZTg4YVJrdWhkNlF6VUUtbTZSdEJhQXxBQ3Jtc0tsZzg0MW1XSDEtaEhDTi1WVkotQ3o3TFZCbmd3R1FVck9rMkozWS1vNTRoNVdWQ2h4cGNDdE04bjlDOGpTTGt2MXczUWxlMmJTTmtZV0FROEkteE5pQ2VVVjZnT2ZJR2RSQ3d1d1QybDJyTU9oOTZmdw&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikry234&label=Profile%20views&color=0e75b6&style=flat" alt="vikry234" /> </p>
 
