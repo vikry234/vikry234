@@ -20,7 +20,7 @@ I am a student from the BSD branch of Information Technology Development Univers
 <a href="https://github.com/vikry234">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikry234&theme=tokyonight&show_icons=true" style="max-width: 100%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikry234&theme=tokyonight&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikry234&theme=tokyonight&show_icons=true" style="max-width: 100%;/>
 </a>
 <p dir="auto"></p>
 </article>
