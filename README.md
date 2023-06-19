@@ -18,7 +18,7 @@ I am a student from the BSD branch of Information Technology Development Univers
   "GitHuB Stats"
 </h3>
 <a href="https://github.com/vikry234">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikry234&theme=dark&show_icons=true" style="max-width: 100%;">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikry234&theme=tokyonight&show_icons=true" style="max-width: 100%;">
 </a>
 <p dir="auto"></p>
