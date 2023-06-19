@@ -10,7 +10,7 @@ I am a student from the BSD branch of Information Technology Development Univers
 - 📫 How to reach me: vikry234@gmail.com
 - ⚡ Fun fact: i'am a lazy
 
-    
+    <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <h3 dir="auto">
   <a id="user-content-github-stats" class="anchor" aria-hidden="true" href="#github-stats">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
@@ -22,8 +22,8 @@ I am a student from the BSD branch of Information Technology Development Univers
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vikry234&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikry234&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
 
-
-
+<p dir="auto"></p>
+</article>
 
 
 
