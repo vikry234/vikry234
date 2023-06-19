@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vikry</h1>
 <h3 align="center">I am a student from the BSD branch of Information Technology Development University (BSI), majoring in informatics technology, undergraduate level</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" style="width: 300px; height: auto;>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/alexboya" style="width: 300px; height: auto;>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikry234&label=Profile%20views&color=0e75b6&style=flat" alt="vikry234" /> </p>
 
