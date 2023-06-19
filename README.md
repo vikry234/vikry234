@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikry234&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vikry234" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikry234&show_icons=true&locale=en" alt="vikry234" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikry234&theme=tokyonight&show_icons=true&locale=en" alt="vikry234" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikry234&" alt="vikry234" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikry234&theme=tokyonight" alt="vikry234" /></p>
