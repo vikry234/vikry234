@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm vikry</h1>
-<h3 align="center">I am a student from the BSD branch of Information Technology Development University (BSI), majoring in informatics technology, undergraduate level</h3>
+<h3 align="center">I am a Graduate in Information Technology from Universitas Bina Sarana Informatika (UBSI)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ejVTnQrMGYjvbjJDMB/giphy.gif" style="width: 300px; height: auto;>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikry234&label=Profile%20views&color=0e75b6&style=flat" alt="vikry234" /> </p>
 
 <ul dir="auto">
-<li> 🔭 I'm currently participating in Pt. Nganggur Jaya</li>
 <li> 🌱 I'm currently learning WPII</li>
 <li> 💬 Ask me about anything</li>
 </ul>
